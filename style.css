@@ -249,6 +249,11 @@ footer{
     padding:30px;
 }
 
+.surprise-photo{
+    max-width:300px;
+    width:90%;
+}
+
 section{
     padding:60px 20px;
 }
